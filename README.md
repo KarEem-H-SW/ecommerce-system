@@ -24,7 +24,7 @@ A full-stack e-commerce system built using **Laravel (REST API)** and **React.js
 ## 🚀 Live Demo
 
 > Coming soon or deploy to [Render](https://render.com) / [Vercel](https://vercel.com) / [Netlify](https://netlify.com)  
-> Example: `https://your-project.onrender.com`
+> Example: `https://e-commerce-project.onrender.com`
 
 ---
 
